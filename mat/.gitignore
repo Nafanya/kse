@@ -1,0 +1,9 @@
+cond
+gauss
+jacobi
+relax
+zeidel
+gen
+*.in
+*.out
+*.txt
